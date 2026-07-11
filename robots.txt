@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mattylll.github.io/def-2026-q3-14-property-developer-insolvencies-exit/sitemap.xml
